@@ -1,7 +1,8 @@
 import React from 'react';
 import NavBar from './components/NavBar/NavBar';
-import Main from './Main';
-import ItemListContainer from './components/ItemListContainer/ItemListContainer';
+import Main from '/Users/camila/miproyecto/src/components/Main/Main.js' 
+import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+import Headers from '/Users/camila/miproyecto/src/components/Headers/Headers.js'
 
 
 
