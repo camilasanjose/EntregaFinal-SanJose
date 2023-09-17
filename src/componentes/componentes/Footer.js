@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-      <footer className="position bottom-0 bg-black text-white p-5 w-full text-center">
+      <footer className="position bottom-0 bg-white text-black p-5 w-full text-center">
         <p>Copyright &copy; Camila San Jose </p>
       </footer>
     );

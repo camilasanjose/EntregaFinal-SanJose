@@ -1,0 +1,144 @@
+[
+ 
+    {
+      
+      "name": "Zapatilla Vans",
+      "price": 3000,
+      "color": "negras",
+      "image": "/image/VansNegras.JPG",
+      "category": "zapatilla",
+      "stock": 10,
+      "description":
+        "Las Vans negras son las zapatillas clásicas de Vans y el primer modelo en lucir el icónico sidestripe de la marca. Nacieron como un calzado para skaters de los años 70 y con el correr de las décadas se transformó en un modelo básico de lifestyle. Son zapatillas de corte bajo confeccionadas con capellada resistente, tiene punteras reforzadas para añadir durabilidad, la suela de caucho original Vans Wafflesole y cuello acolchado para ofrecer sujeción y confort. "
+    },
+    {
+      
+      "name": "Remera ",
+      "price": 2000,
+      "color": "Gray",
+      "image": "/image/remeraGris.jpeg",
+      "category": "remera",
+      "stock": 15,
+      "description":
+        "Confeccionada con algodón de alta densidad para brindar una sensación premium y estructurada, esta playera de corte amplio te brinda espacio adicional en los hombros, el pecho y el cuerpo para facilitar el movimiento. Remera de hombre, talle uniuco"
+    },
+    {
+     
+      "name": " Pantalon",
+      "price": 2500,
+      "color": "white",
+      "image": "/image/pantalonBlanco.jpg",
+      "category": "pantalon",
+      "stock": 9,
+      "description":
+        "BÁSICO IMPRESCINDIBLE.La tela premium y el diseño relajado resaltan los pants Nike Solo Swoosh. Estos pants, parte de la colección Essentials, ofrecen una sensación de suavidad con un ajuste holgado para usarlo todo el día.Beneficios•La tela cepillada en el interior proporciona suave calidez•Los bolsillos abiertos permiten un almacenamiento de acceso sencillo. Pantalon de mujer, talle unico."
+    },
+    {
+      
+      "name": "Zapatilla All Star",
+      "price": 3000,
+      "color": "White",
+      "image": "/image/Allstar.JPG",
+      "category": "zapatilla",
+      "stock": 10,
+      "description":
+        "Si buscas unas zapatillas para usar a toda hora y en todo lugar, las Zapatillas Converse  All Star  son para vos. Te dan la versatilidad que quieres para combinarlas con lo mejor que tengas en el ropero sin perder el estilo y la comodidad. Género: Unisex. Adecuado para: Todo el día. Material: Lona. Beneficios: Durabilidad. Composición: Capellada: lona / Suela: goma. Caña: Baja "
+    },
+    {
+      
+      "name": "Gorra",
+      "price": 1500,
+      "color": "black",
+      "image": "/image/gorra.jpg",
+      "category": "new",
+      "stock": 15,
+      "description":
+        "Gorra mujer de aco cuero"
+    },
+    {
+      
+      "name": "All start plataforma",
+      "price": 4000,
+      "color": "black",
+      "image": "/image/allStarPlataforma.JPG",
+      "category": "zapatilla",
+      "stock": 15,
+      "description":
+        "Las Zapatillas Converse Chuck Taylor All Star Lift son un clásico que no puede faltar en tu ropero. Su diseño moderno es ideal para lucir hasta en las salidas menos planeadas gracias a su capellada de lona resistente y una plataforma digna de Converse. Género: Unisex. Adecuado para: Todo el día. Material: Lona. Beneficios: Durabilidad. Composición: Capellada: lona / Suela: goma. Caña: Baja "
+    },
+    {
+    "name": "Remera Adidas",
+      "price": 2500,
+      "color": "white",
+      "image": "/image/RemeraBlanca.JPG",
+      "category": "remera",
+      "stock": 10,
+      "description":
+        "Te presentamos a tu nueva remera favorita. Su tejido de algodón suave te envuelve con la misma comodidad de tu hogar cada vez que te la ponés. El ajuste perfecto garantiza la máxima comodidad: ni muy ajustado, ni muy holgado. Esta remera adidas fue diseñada para usarse repetidamente, para que la luzcas en todas partes. Articulo unisex y de talle unico"
+    },
+    {
+    "name": "Pantalon jean",
+    "price": 3000,
+    "color": "jean",
+    "image": "/image/PantalonJean.JPG",
+    "category": "pantalon",
+    "stock": 8,
+    "description":
+      "Pantalón de Jean Mom Color Claro Roto, Tiro alto, Rígido, Calce suelto. Talle unico"
+    },
+    {
+      "name": "Gorra negra",
+      "price": 1300,
+      "color": "black",
+      "image": "/image/GorraNegra.JPG",
+      "category": "new",
+      "stock": 8,
+      "description":
+          "Gorra unisex, NY. Negra"
+   },
+   {
+    "name": "Capera negra",
+    "price": 5000,
+    "color": "black",
+    "image": "/image/CamperaNegra.JPG",
+    "category": "camperas",
+    "stock": 8,
+    "description":
+        "100% algodón. Calce oversize. Talle unico. Es blandita y super cómoda, para el frio y calor. "
+ },
+ {
+  "name": "Campera blanca",
+  "price": 5000,
+  "color": "white",
+  "image": "/image/CamperaBlanca.JPG",
+  "category": "camperas",
+  "stock": 8,
+  "description":
+  "100% algodón. Calce oversize. Talle unico. Es blandita y super cómoda, para el frio y calor."
+},
+{
+  "name": "Campera jean",
+  "price": 5000,
+  "color": "jean",
+  "image": "/image/CamperaJean.JPG",
+  "category": "camperas",
+  "stock": 8,
+  "description":
+  "100% algodón. Calce oversize. Talle unico. Es blandita y super cómoda, para el frio y calor."
+},
+{
+  "name": "Remera negra",
+  "price": 2500,
+  "color": "black",
+  "image": "/image/RemeraNegra.JPG",
+  "category": "remera",
+  "stock": 10,
+  "description":
+      " Remeras lisas cuello redondo y manga corta. Estilo oversize unisex. Talle unuco"
+}
+
+
+
+
+
+]
