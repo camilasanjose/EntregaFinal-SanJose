@@ -24,7 +24,3 @@ Utilice las carpetas migrations.js y seedData.json para pasar los datos de produ
 
 - CheckoutForm: un componente de formulario para que los usuarios pongan su nombre, teléfono y correo electrónico durante el proceso de pago.
 
-
-Funcionamiento de la pagina (gif)
-
- public/Grabación-de-pantalla-2023-09-15-a-la_s_-10.13.58-2.gif
